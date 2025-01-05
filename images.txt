@@ -1,1 +1,1 @@
-stirlingtools/stirling-pdf:latest
+alpine:3.20.3
