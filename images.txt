@@ -1,1 +1,1 @@
---platform=linux/arm/v6 alpine:3.20.3
+ghcr.io/open-webui/open-webui:main
